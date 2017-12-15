@@ -1,0 +1,11 @@
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\bin\Debug\netcoreapp2.0\HeloWord.deps.json
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\bin\Debug\netcoreapp2.0\HeloWord.runtimeconfig.json
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\bin\Debug\netcoreapp2.0\HeloWord.runtimeconfig.dev.json
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\bin\Debug\netcoreapp2.0\HeloWord.dll
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\bin\Debug\netcoreapp2.0\HeloWord.pdb
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.csprojResolveAssemblyReference.cache
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.csproj.CoreCompileInputs.cache
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.AssemblyInfoInputs.cache
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.AssemblyInfo.cs
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.dll
+C:\Users\pedrothiago\Documents\GitHub\Lerning-dot-net\HeloWord\HeloWord\obj\Debug\netcoreapp2.0\HeloWord.pdb
